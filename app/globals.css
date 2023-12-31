@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+/* Css Base for this project */
+@layer base {
+  body {
+  }
+}
+
+@layer components {
+}
+
+@layer utilities {
+}
+
+.box-shadow {
+  @media screen and (min-width: 1024px) {
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2),
+      0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+}
