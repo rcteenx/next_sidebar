@@ -1,3 +1,5 @@
+Purpose: Sidebar for admin menu!
+
 Açılır kapanır sol menü yapıldı... mobil uyumluluğuna bakılacak
 
 ---
